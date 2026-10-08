@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Digital banking made for everyday life</title>
+  <desc id="desc">A customer uses a mobile banking app in a bright, welcoming space.</desc>
+  <defs>
+    <linearGradient id="wash" x1="85" y1="58" x2="630" y2="512" gradientUnits="userSpaceOnUse"><stop stop-color="#F8EAF3"/><stop offset=".53" stop-color="#F3F6FC"/><stop offset="1" stop-color="#E5ECFA"/></linearGradient>
+    <linearGradient id="screen" x1="436" y1="122" x2="566" y2="409" gradientUnits="userSpaceOnUse"><stop stop-color="#365AAA"/><stop offset="1" stop-color="#223F82"/></linearGradient>
+    <linearGradient id="shirt" x1="203" y1="293" x2="430" y2="514" gradientUnits="userSpaceOnUse"><stop stop-color="#D94A9B"/><stop offset="1" stop-color="#B9277F"/></linearGradient>
+    <filter id="shadow" x="172" y="84" width="448" height="455" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect x="20" y="20" width="680" height="520" rx="34" fill="url(#wash)"/>
+  <circle cx="540" cy="142" r="84" fill="#fff" fill-opacity=".55"/>
+  <circle cx="147" cy="424" r="75" fill="#fff" fill-opacity=".55"/>
+  <path d="M70 426c82-38 149-37 224 2 87 45 172 46 349-8v72H70v-66Z" fill="#fff" fill-opacity=".63"/>
+  <path d="M92 322h101v133H92z" fill="#fff" fill-opacity=".8"/><path d="M107 340h70m-70 18h49m-49 18h61" stroke="#CFD8EB" stroke-width="6" stroke-linecap="round"/>
+  <path d="M124 322v-23c0-24 18-43 41-43s41 19 41 43v23" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <rect x="422" y="96" width="174" height="345" rx="27" fill="#203866" fill-opacity=".18" filter="url(#shadow)"/>
+  <rect x="435" y="87" width="155" height="338" rx="25" fill="#fff"/>
+  <rect x="444" y="101" width="137" height="308" rx="17" fill="url(#screen)"/>
+  <rect x="489" y="94" width="48" height="5" rx="2.5" fill="#CED6E5"/>
+  <circle cx="462" cy="124" r="9" fill="#F7D4E8"/><path d="M478 121h43m-43 8h28" stroke="#fff" stroke-opacity=".75" stroke-width="4" stroke-linecap="round"/>
+  <text x="459" y="163" fill="#E5EAF5" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.2">YOUR BANKING</text>
+  <rect x="458" y="174" width="109" height="62" rx="11" fill="#fff" fill-opacity=".13"/>
+  <text x="470" y="194" fill="#E4E9F4" font-family="Arial,sans-serif" font-size="8">ACCOUNT OVERVIEW</text>
+  <path d="M470 207h69" stroke="#fff" stroke-opacity=".24" stroke-width="3" stroke-linecap="round"/>
+  <path d="m471 222 12-7 11 4 13-11 10 5 13-9 17 4" stroke="#F3B9D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="472" cy="260" r="12" fill="#fff" fill-opacity=".16"/><circle cx="507" cy="260" r="12" fill="#F2B9D8" fill-opacity=".94"/><circle cx="542" cy="260" r="12" fill="#fff" fill-opacity=".16"/>
+  <path d="M467 293h88m-88 13h62m-62 33h88m-88 13h65" stroke="#fff" stroke-opacity=".65" stroke-width="5" stroke-linecap="round"/>
+  <rect x="462" y="374" width="101" height="20" rx="10" fill="#F0B9D7" fill-opacity=".9"/>
+  <path d="M209 474c5-57 15-105 43-141 21-27 49-40 82-40 57 0 93 37 108 99l20 82H209Z" fill="url(#shirt)"/>
+  <path d="M271 297c-2-22 1-48 14-67 12-17 30-27 52-27 34 0 59 25 60 59 1 30-15 63-39 79-23 15-60 4-74-19-8-13-11-15-13-25Z" fill="#A7654F"/>
+  <path d="M271 263c-7-25 8-50 29-63 23-14 57-11 76 7 13 13 20 29 18 47-16-5-25-17-31-29-18 19-48 28-92 38Z" fill="#25365B"/>
+  <path d="M290 308c15 13 42 16 61 4l20 29c-17 18-52 23-78 10l-19-23 16-20Z" fill="#fff"/>
+  <path d="M350 315c17 1 35 12 50 28l55 57c10 10 9 24-1 33-9 8-21 7-31-1l-65-48c-17-12-29-25-35-43l27-26Z" fill="#A7654F"/>
+  <path d="M330 351c6-8 13-16 22-23l25 19-28 37-26-18 7-15Z" fill="#203866"/>
+  <path d="M213 474h252" stroke="#D3DCEF" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="625" cy="309" r="17" fill="#C72E8F" fill-opacity=".13"/><path d="m619 309 4 4 8-9" stroke="#C72E8F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M83 239c0-11 9-20 20-20h41" stroke="#3052A1" stroke-opacity=".32" stroke-width="2" stroke-linecap="round"/><circle cx="83" cy="239" r="5" fill="#C72E8F"/>
+</svg>
